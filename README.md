@@ -1,2 +1,2 @@
 # SDR-web-pages
-SDR site versions
+зеркало сайта с SDR. Полная копия на сайте http://185.152.138.138/
