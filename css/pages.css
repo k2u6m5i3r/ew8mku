@@ -23,3 +23,6 @@
 }
 .item__content {
 }
+.item__content img{
+    width: 100%;
+}
