@@ -11,12 +11,16 @@
 .page__titel {
 }
 .titel {
-    font-size: 25px;
+    font-size: 16px;
 }
 .page__discription {
 }
 .discription {
-    padding: 10px;
+    font-style: italic;
+    padding: 0px 0px 10px 15px;
+}
+.discription a:hover{
+    text-decoration: underline;
 }
 .discription a{
 
