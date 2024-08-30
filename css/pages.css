@@ -24,8 +24,8 @@
 .item__content {
 }
 .item__content img{
-    width: 350px;
+    width: 100%;
 }
 .item__content-smale-img img{
-    max-width: 100%;
+    max-width: 350;
 }
